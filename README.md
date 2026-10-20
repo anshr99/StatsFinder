@@ -8,7 +8,7 @@ The package provides functions to:
 - Estimate regression coefficients using the OLS method.
 - Calculate predicted Y values.
 - Calculate the residual vector.
-- Estimate the residual variance (\(\hat{\sigma}^2\)).
+- Estimate the residual variance ($\hat{\sigma}^2$).
 - Visualise the observed values, predicted values and line of best fit.
 
 NumPy is used for matrix operations and regression calculations. Matplotlib is used to visualise the regression results.
